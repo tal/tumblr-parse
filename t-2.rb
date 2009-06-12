@@ -670,8 +670,6 @@ private
     end#if
   end#set_description
   
-
-  
 end
 
 if __FILE__ == $0 # exits if the script is required instead of explicitly run
