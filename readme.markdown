@@ -1,10 +1,10 @@
-TODO:
+To Do:
 ===
-  Make index, permalink, tag, search pages subclasses
-  Fix audio posts
-  Adjust swap_block to allow for multiple captures using array rather than hash
+1.  Make index, permalink, tag, search pages subclasses
+2.  Fix audio posts
+3.  Adjust swap_block to allow for multiple captures using array rather than hash
   
 Someday Maybe:
 ===
-  Add module to pull your posts from tumblr to generate file
-  Change parsing engine to grab any block and process rather than looking for blocks to process
+1.  Add module to pull your posts from tumblr to generate file
+2.  Change parsing engine to grab any block and process rather than looking for blocks to process
